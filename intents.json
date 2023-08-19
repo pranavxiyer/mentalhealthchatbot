@@ -1,1 +1,38 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hi", "hey", "what's up", "hello", "can we talk", "i need help", "please help", "i need advice", "let's talk"],
+    "responses": ["Hello!", "Hi! How are you?", "Ask me anything!", "What's on your mind?", "Tell me how you're feeling.", "Treat this like a therapy session!"]},
+    
+    {"tag": "sad",
+    "patterns": ["i'm feeling sad", "not doing well", "bad", "i want to cry", "", "i need help", "please help", "i need advice", "let's talk"],
+    "responses": ["Hello!", "Hi! How are you?", "Ask me anything!", "What's on your mind?", "Tell me how you're feeling.", "Treat this like a therapy session!"]}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]}
