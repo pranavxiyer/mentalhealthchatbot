@@ -1,2 +1,2 @@
 # mentalhealthchatbot
-deep learning mental health chatbot
+natural language processing and deep learning mental health chatbot
