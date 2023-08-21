@@ -4,8 +4,8 @@
     "responses": ["Hello!", "Hi! How are you?", "Ask me anything!", "What's on your mind?", "Tell me how you're feeling.", "Treat this like a therapy session!"]},
     
     {"tag": "sad",
-    "patterns": ["i'm feeling sad", "not doing well", "bad", "i want to cry", "", "i need help", "please help", "i need advice", "let's talk"],
-    "responses": ["Hello!", "Hi! How are you?", "Ask me anything!", "What's on your mind?", "Tell me how you're feeling.", "Treat this like a therapy session!"]}
+    "patterns": ["i'm feeling sad", "not doing well", "bad", "i want to cry", "i'm feeling out of it", "i need help", "please help", "i need advice", "let's talk"],
+    "responses": ["life is sad I agree"]}
 
 
 
