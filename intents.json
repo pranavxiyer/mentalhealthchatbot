@@ -4,8 +4,33 @@
     "responses": ["Hello!", "Hi! How are you?", "Ask me anything!", "What's on your mind?", "Tell me how you're feeling.", "Treat this like a therapy session!"]},
     
     {"tag": "sad",
-    "patterns": ["i'm feeling sad", "not doing well", "bad", "i want to cry", "i'm feeling out of it", "i need help", "please help", "i need advice", "let's talk"],
-    "responses": ["life is sad I agree"]}
+    "patterns": ["i'm feeling overwhelmed", "not doing well", "bad", "i am so sad", "i want to cry", "i'm feeling out of it", "my life sucks", "i hate everything"],
+    "responses": ["Life can be rough. Tell me more.", "What's going on. Talk to me.", "Why are you feeling this way?", "Let's discuss how you are feeling."]},
+
+    {"tag": "classes",
+    "patterns": ["my classes are too hard", "school is tough", "school", "gpa", "grades", "class is too long", "uc berkeley is too much", 
+                "college is harder than high school"],
+    "responses": ["Grades do not determine your life. Work hard and look after your mental health.", "Office hours are always helpful! Try to attend those more often, if possible.",
+                "College classes are definitely difficult. However, it is important to clear your thoughts and take breaks every so often.",
+                "I feel for you. Mediating and mindfulness are important to practice, in order to better focus in class.",
+                "School can be very hard on both your mind and body. Try to exercises and pursue side passions whenever possible!",
+                "Try to utilize campus resources for tutoring, academic support, and other useful advice!"]},
+    
+    {"tag": "eating",
+    "patterns": ["i don't eat enough", "eating", "unhealthy", "how do i cook better", "i am hungry but don't have time", "cooking"],
+    "responses": ["Meal prepping quick and easy meals for the week may help!", "Always make sure to eat breakfast. Some quick meals are cereal, oatmeal, toast, etc.",
+                "Try to avoid unhealthy food choices. Whatever you put into your body matters for your mental and physical clarity!",
+                "Eating healthy snacks in between classes can really help you feel better during the day. You can cook or buy these!"]},
+    
+    {"tag": "sleep",
+    "patterns": ["i don't get enough sleep", "i always stay up so late", "wake up", "on time", "sleepy", "groggy", "tired"],
+    "responses": ["Sleep is very important for your body to function properly. Try to prioritize that!", "If possible, try to better your sleep schedule!",
+                "Even if you think you need to stay up late, it can often be better to sleep early and wake up early.",
+                "Try to take power naps whenever possible. There are many places on university campus where you can do that!",
+                "Try to stay away from electronic devices at least 30 minutes before you sleep.",
+                "Meditating for even 5-10 minutes as soon as you wake up can help you feel lively throughout the day!"]}        
+
+
 
 
 
